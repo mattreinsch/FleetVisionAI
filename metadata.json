@@ -1,0 +1,5 @@
+{
+  "name": "FleetVision AI: Auto-Labeling for Trucking",
+  "description": "An application demonstrating an unsupervised AI pipeline (Gemini, DINO, SAM2, YOLO) to automatically segment and label video for fleet management, enhancing safety and operational efficiency.",
+  "requestFramePermissions": []
+}
